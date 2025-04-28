@@ -1,6 +1,6 @@
 ## README
 
-https://Roqmoq.github.io/gatsby-blog へのデプロイ,
+https://gagagaL.github.io/gatsby-blog へのデプロイ,
 
     ```shell
     # create a new Gatsby site using the minimal TypeScript starter
@@ -20,3 +20,5 @@ https://Roqmoq.github.io/gatsby-blog へのデプロイ,
 - [ ] Cursor
 - [ ] SAA
 - [ ] neovim
+- [ ] Next.js + Nest.js
+- [ ] Laravel
